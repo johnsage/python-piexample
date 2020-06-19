@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ef86d18-037e-48a4-be20-8a992e6c49bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dY5OtXO7nbsSPdoWMuFylzZi2v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ef86d18-037e-48a4-be20-8a992e6c49bb" name="Default Changelist" comment="" />
+      <created>1592589157334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592589157334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="235" y="27" width="612" height="537" key="#main" timestamp="1592589428217">
+      <screen x="0" y="27" width="1092" height="537" />
+    </state>
+    <state x="235" y="27" width="612" height="537" key="#main/0.27.1092.537@0.27.1092.537" timestamp="1592589428217" />
+    <state x="209" y="26" width="672" height="678" key="search.everywhere.popup" timestamp="1592589756051">
+      <screen x="0" y="27" width="1092" height="537" />
+    </state>
+    <state x="209" y="26" width="672" height="678" key="search.everywhere.popup/0.27.1092.537@0.27.1092.537" timestamp="1592589756051" />
+  </component>
+</project>
